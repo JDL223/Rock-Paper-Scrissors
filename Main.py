@@ -29,9 +29,9 @@ while play_again:
         if win_streak == 1:
             print("you win lil bro 😡")
         elif win_streak == 2:
-            print("you win again lil bro 🔥🔥 win streak: 2")
+            print("you win again lil bro 🔥 win streak: 2")
         elif win_streak >= 3:
-            print("you on fire lil bro 🔥🔥🔥 win streak: 3+")
+            print("you on fire lil bro 🔥 win streak: 3")
 
     # Ask to play again
     user_input = input("You want to play again lil bro? (yes/no): ").lower()
