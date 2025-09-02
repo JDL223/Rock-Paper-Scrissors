@@ -1,9 +1,7 @@
 import random
 import os
 
-# clear screen function
-def clear():
-    os.system('cls||clear')
+clear : os.system( 'cls||clear' )
 
 print("Welcome to our little game of Rock Paper Scissors lil bro!")
 print()
